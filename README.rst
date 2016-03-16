@@ -4,7 +4,7 @@ ckanext-storage_file - Replace persisted file through HTTP POST
 
 HTTP POST
 
-www.yourDomain.com/Persisted_json
+	www.yourDomain.com/Persisted_json
 
 Content Body:
 
