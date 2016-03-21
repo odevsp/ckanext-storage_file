@@ -1,3 +1,34 @@
+-.. You should enable this project on travis-ci.org and coveralls.io to make
+-   these badges work. The necessary Travis and Coverage config files have been
+-   generated for you.
+-
+-.. image:: https://travis-ci.org//ckanext-storage_file.svg?branch=master
+-    :target: https://travis-ci.org//ckanext-storage_file
+-
+-.. image:: https://coveralls.io/repos//ckanext-storage_file/badge.png?branch=master
+-  :target: https://coveralls.io/r//ckanext-storage_file?branch=master
+-
+-.. image:: https://pypip.in/download/ckanext-storage_file/badge.svg
+-    :target: https://pypi.python.org/pypi//ckanext-storage_file/
+-    :alt: Downloads
+-
+-.. image:: https://pypip.in/version/ckanext-storage_file/badge.svg
+-    :target: https://pypi.python.org/pypi/ckanext-storage_file/
+-    :alt: Latest Version
+-
+-.. image:: https://pypip.in/py_versions/ckanext-storage_file/badge.svg
+-    :target: https://pypi.python.org/pypi/ckanext-storage_file/
+-    :alt: Supported Python versions
+-
+-.. image:: https://pypip.in/status/ckanext-storage_file/badge.svg
+-    :target: https://pypi.python.org/pypi/ckanext-storage_file/
+-    :alt: Development Status
+-
+-.. image:: https://pypip.in/license/ckanext-storage_file/badge.svg
+-    :target: https://pypi.python.org/pypi/ckanext-storage_file/
+-    :alt: License
+-
+
 =============
 ckanext-storage_file - Replace persisted file through HTTP POST
 =============
