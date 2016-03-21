@@ -14,7 +14,7 @@ Content Body:
 Requirements
 ------------
 
-1. You Need to be Ckan administrator to access this method.
+1. You need to be Ckan administrator to access this method.
 
 ------------
 Installation
