@@ -4,17 +4,28 @@ ckanext-storage_file - Replace persisted file through HTTP POST
 
 HTTP POST
 
+<<<<<<< HEAD
 www.yourDomain.com/Persisted_json
 
 Content Body:
 
+=======
+	www.yourDomain.com/Persisted_json
+
+Content Body:
+
+>>>>>>> 21852b57c0cda8844981b24e1b6264a2c73e56af
 	{"file/22220310180300/dataset_example.json": {"_label": "file/22220310180300/dataset_example.json", "uploaded-by": "ckan_admin" .......
 
 ------------
 Requirements
 ------------
 
+<<<<<<< HEAD
 
+=======
+1. You need to be Ckan administrator to access this method.
+>>>>>>> 21852b57c0cda8844981b24e1b6264a2c73e56af
 
 ------------
 Installation
@@ -56,4 +67,8 @@ This material is copyright (c) 2006-2016 Open Knowledge Foundation.
 
 It is open and licensed under the GNU Affero General Public License (AGPL) v3.0 whose full text may be found at:
 
+<<<<<<< HEAD
 http://www.fsf.org/licensing/licenses/agpl-3.0.html
+=======
+http://www.fsf.org/licensing/licenses/agpl-3.0.html
+>>>>>>> 21852b57c0cda8844981b24e1b6264a2c73e56af
