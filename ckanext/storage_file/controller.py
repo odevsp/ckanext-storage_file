@@ -2,12 +2,9 @@ from logging import getLogger
 from ckan.lib.base import request, BaseController, abort, json, c
 from ckan.plugins import toolkit
 
-import ckan.logic as logic
 import ckan.plugins as p
 import json
 import pylons.config as config
-import ckan.model as model
-import ckan.logic
 
 
 log = getLogger(__name__)
